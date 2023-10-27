@@ -1,0 +1,103 @@
+.logo img{
+    position: absolute;
+    top: 20px;
+    left: 5%;
+    height: 150px;
+    width: 150px;
+    
+     
+}
+.headerbtn{
+    position: absolute;
+    top: 0px;
+    right: 5%;
+    width: 150px;
+    padding: 5px;
+    margin-top: -80px;
+     
+    
+}
+.col-sm-8{
+    align-items: center;
+    margin-top: 20px;
+    padding: auto;
+    margin-left: 30%;
+}
+.container{
+    height: 230px;
+    background-color: rgb(84, 84, 223);
+    max-width: none;
+    
+}
+.cont{
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: aquamarine;
+    padding: 100px;
+    align-items: center;
+}
+.sinup{
+    margin-top: -20px;
+}
+.body{
+    margin-top: -50px;
+    padding: 100px;
+}
+.home{
+    margin-top: 200px;
+}
+.foter{
+    background-color: rgb(67, 67, 85);
+    height: fit-content;
+    width: 100%;
+    
+}
+.col-sm-12{
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.h6.col-sm-12{
+    margin-top: 10px;
+}
+.sidebar{
+    background-color: rgb(100, 74, 124);
+    width: 300px;
+    margin-top: 0%;
+    height: 100%;
+    margin-bottom: 0%;
+}
+.btn-secondary{
+    background-color: rgb(226, 80, 12);
+    padding: 10px;
+    text-decoration-color: black;
+    border-radius: 10px;
+
+}
+ .form{
+    background-color: aqua;
+    margin-top: 150px;
+    margin-bottom: 0px;
+    height: 300px;
+ }
+    
+
+.slider {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    height:100%;
+}
+
+.slider img {
+    width: 100%;
+    display: none;
+    height: 80%;
+}
+.footerinfo{
+    padding: 10px;
+    align-items: center;
+    text-decoration: rgb(236, 243, 243);
+    margin-left: 300px;
+}
+ 
