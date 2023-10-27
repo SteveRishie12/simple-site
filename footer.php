@@ -13,8 +13,8 @@
 <body>
     <div class="foter"> 
 <p class="col-sm-12">Copyright &copy;  Stephen Kariuki Nyambura
-<a href="http://www.colycomputerhelp.co.uk/">RishieTech </a> and
-<a href=http://www.littleoceanwaves.com> VOSTECH</a> 
+<a href="steve">RishieTech </a> and
+<a href=steve> VOSTECH</a> 
 <div class="footerinfo"> 
       <h2>contacts</h2>
      email: skariuki842@gmail.com <br> 
